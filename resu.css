@@ -1,0 +1,9 @@
+body{
+    background-color: whitesmoke;
+}
+
+div{
+    background-color: lightslategray;
+    color: black;
+    padding: 2px;
+}
